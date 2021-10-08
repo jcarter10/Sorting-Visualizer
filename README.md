@@ -8,4 +8,9 @@ A React.js project created to showcase my component-based creation and data visu
 - React Charts
 
 # How to run
-Simply download the application, cd into project root, and type 'npm start'. If you haven't worked with React, NPM, or nodejs before you'll most likely produce errors and will have to download the necessary components.  
+- clone repo
+- cd into project root
+- run 'npm install' (is needed because I did not include the node_modules folder)
+- run 'npm start'
+
+If you haven't worked with React, NPM, or nodejs before you'll most likely produce errors and will have to download the necessary components.  
