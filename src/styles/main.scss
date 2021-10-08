@@ -1,0 +1,49 @@
+
+$main-color: rgb(242, 242, 242);
+$header-color: #212529;
+
+
+body {
+    background-color: $main-color;
+}
+
+#dashboard {
+    
+    #options {
+        margin: 0 25px;
+        margin-top: 25px;
+        display: flex;
+        gap: 25px;
+        justify-content: flex-end;
+
+        #sliderDiv {
+            display: inline-block
+        }
+        
+        #buttonDiv {
+            display: flex;
+            align-items: flex-start;
+            gap: 10px;
+            order: 3;
+        }
+    }
+
+    #chartDiv {
+        width: 100%;
+        border-bottom: 15px solid $header-color;
+        position: fixed;
+        bottom: 0;
+
+        #chart {
+            margin: 100px 10px 0px 10px;
+            width: auto;
+            height: 600px;
+        }
+    }
+}
+
+@media only screen and (max-width: 800px) {
+    #options {
+        flex-direction: column;
+    }
+}
