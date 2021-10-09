@@ -14,19 +14,17 @@ Utilizes the following libraries:
 Note: latest of version of Node.js and Node Package Manager will be required to run this program.  
 
 ## Results
-#Start:
+# Start:
 <p align="center">
   <img src="src/assets/start.PNG">
 </p>
 
-#End:
+# End:
 <p align="center">
   <img src="src/assets/end.PNG">
 </p>
 
-#Video Demonstration:
-<p align="center">
-  <img src="src/assets/demo.mp4">
-</p>
+# Video Demonstration:
+![demo](https://user-images.githubusercontent.com/86234923/136641208-59a1b911-ae29-4b43-b45f-d2ba5e77dd54.gif)
 
 
