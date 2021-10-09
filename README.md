@@ -1,16 +1,32 @@
-## 
-A React.js project created to showcase my component-based creation and data visualization skills. 
+## Background
+A React.js project created to showcase my component-based creation and data visualization skills by showing how different kinds of sorting methods operate on each iteration.  
 
-# Specifications
-- React.js
+Utilizes the following libraries:
 - React Bootstrap
 - Material UI
 - React Charts
 
-# How to run
+## How to run
 - clone repo
 - cd into project root
 - run 'npm install' (is needed because I did not include the node_modules folder)
 - run 'npm start'
+Note: latest of version of Node.js and Node Package Manager will be required to run this program.  
 
-If you haven't worked with React, NPM, or nodejs before you'll most likely produce errors and will have to download the necessary components.  
+## Results
+#Start:
+<p align="center">
+  <img src="src/assets/start.PNG">
+</p>
+
+#End:
+<p align="center">
+  <img src="src/assets/end.PNG">
+</p>
+
+#Video Demonstration:
+<p align="center">
+  <img src="src/assets/demo.mp4">
+</p>
+
+
