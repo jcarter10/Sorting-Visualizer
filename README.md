@@ -1,8 +1,7 @@
-## 
-A React.js project created to showcase my component-based creation and data visualization skills by using different kinds of sorting methods. 
+## Background
+A React.js project created to showcase my component-based creation and data visualization skills by using different kinds of sorting methods.  
 
-# Specifications
-- React.js
+Utilizes the following libraries:
 - React Bootstrap
 - Material UI
 - React Charts
