@@ -6,21 +6,27 @@ Utilizes the following libraries:
 - Material UI
 - React Charts
 
-# How to run
+## How to run
 - clone repo
 - cd into project root
 - run 'npm install' (is needed because I did not include the node_modules folder)
 - run 'npm start'
 Note: latest of version of Node.js and Node Package Manager will be required to run this program.  
 
-# Results
-Start:
+## Results
+#Start:
 <p align="center">
   <img src="src/assets/start.PNG">
 </p>
 
-End:
+#End:
 <p align="center">
   <img src="src/assets/end.PNG">
 </p>
+
+#Video Demonstration:
+<p align="center">
+  <img src="src/assets/demo.mp4">
+</p>
+
 
