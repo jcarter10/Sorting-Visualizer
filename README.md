@@ -16,11 +16,11 @@ Note: latest of version of Node.js and Node Package Manager will be required to 
 # Results
 Start:
 <p align="center">
-  <img src="src/assets/start.PNG" width=250>
+  <img src="src/assets/start.PNG">
 </p>
 
 End:
 <p align="center">
-  <img src="src/assets/end.PNG" width=250>
+  <img src="src/assets/end.PNG">
 </p>
 
