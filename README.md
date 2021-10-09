@@ -1,4 +1,3 @@
-# Sorting Visualizer
 ## Description
 A React.js project created to showcase my component-based creation and data visualization skills by showing how different kinds of sorting methods operate on each iteration.  
 
