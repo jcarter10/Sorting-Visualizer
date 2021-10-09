@@ -1,5 +1,5 @@
 ## Background
-A React.js project created to showcase my component-based creation and data visualization skills by using different kinds of sorting methods.  
+A React.js project created to showcase my component-based creation and data visualization skills by showing how different kinds of sorting methods operate on each iteration.  
 
 Utilizes the following libraries:
 - React Bootstrap
@@ -11,4 +11,4 @@ Utilizes the following libraries:
 - cd into project root
 - run 'npm install' (is needed because I did not include the node_modules folder)
 - run 'npm start'
-* Must have the latest of version of Node.js and Node Package Manager.  
+Note: latest of version of Node.js and Node Package Manager will be required to run this program.  
