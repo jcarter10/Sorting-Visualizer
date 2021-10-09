@@ -1,4 +1,4 @@
-## Background
+## Description
 A React.js project created to showcase my component-based creation and data visualization skills by showing how different kinds of sorting methods operate on each iteration.  
 
 Utilizes the following libraries:
@@ -6,7 +6,7 @@ Utilizes the following libraries:
 - Material UI
 - React Charts
 
-## How to run
+## Installation
 - clone repo
 - cd into project root
 - run 'npm install' (is needed because I did not include the node_modules folder)
