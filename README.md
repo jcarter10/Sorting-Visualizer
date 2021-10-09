@@ -7,10 +7,10 @@ Utilizes the following libraries:
 - React Charts
 
 ## Installation
-- clone repo
-- cd into project root
-- run 'npm install' (is needed because I did not include the node_modules folder)
-- run 'npm start'
+- clone repository.
+- cd into project root.
+- run 'npm install'.
+- run 'npm start'.
 Note: latest of version of Node.js and Node Package Manager will be required to run this program.  
 
 ## Results
