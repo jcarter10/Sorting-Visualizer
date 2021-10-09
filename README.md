@@ -1,5 +1,5 @@
 ## 
-A React.js project created to showcase my component-based creation and data visualization skills. 
+A React.js project created to showcase my component-based creation and data visualization skills by using different kinds of sorting methods. 
 
 # Specifications
 - React.js
@@ -12,5 +12,4 @@ A React.js project created to showcase my component-based creation and data visu
 - cd into project root
 - run 'npm install' (is needed because I did not include the node_modules folder)
 - run 'npm start'
-
-If you haven't worked with React, NPM, or nodejs before you'll most likely produce errors and will have to download the necessary components.  
+*Must have the latest of version of Node.js and Node Package Manager.  
