@@ -11,4 +11,4 @@ Utilizes the following libraries:
 - cd into project root
 - run 'npm install' (is needed because I did not include the node_modules folder)
 - run 'npm start'
-*Must have the latest of version of Node.js and Node Package Manager.  
+* Must have the latest of version of Node.js and Node Package Manager.  
