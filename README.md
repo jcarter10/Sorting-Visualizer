@@ -12,3 +12,9 @@ Utilizes the following libraries:
 - run 'npm install' (is needed because I did not include the node_modules folder)
 - run 'npm start'
 Note: latest of version of Node.js and Node Package Manager will be required to run this program.  
+
+# Results
+Static Look:
+<p align="center">
+  <img src="assets/Screenshot_1627761685.png" width=250>
+</p>
