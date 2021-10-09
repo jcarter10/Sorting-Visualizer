@@ -14,7 +14,13 @@ Utilizes the following libraries:
 Note: latest of version of Node.js and Node Package Manager will be required to run this program.  
 
 # Results
-Static Look:
+Start:
 <p align="center">
-  <img src="assets/Screenshot_1627761685.png" width=250>
+  <img src="assets/start.PNG" width=250>
 </p>
+
+End:
+<p align="center">
+  <img src="assets/end.PNG" width=250>
+</p>
+
