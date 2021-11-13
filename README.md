@@ -1,5 +1,5 @@
 ## Description
-A React.js project created to showcase my component-based creation and data visualization skills by showing how different kinds of sorting methods operate on each iteration.  
+A React.js project created to showcase my component-based creation and data visualization skills by showing how different kinds of sorting methods operate throughout each iteration.  
 
 Utilizes the following libraries:
 - React Bootstrap
